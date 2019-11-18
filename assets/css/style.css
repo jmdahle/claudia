@@ -1,0 +1,47 @@
+* {
+    font-family: 'Ibarra Real Nova', serif;
+
+}
+
+.parallax-container {
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+
+#logo {
+    font-family: 'Calligraffitti', cursive;
+}
+
+h2, h5, .nav {
+    font-family: 'Sriracha', cursive;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+.bigblock {
+    font-size: 140%;
+    border-left-color: #03a9f4;
+}
+
+#p1 {
+    min-height: 300px;
+}
+
+#p2 {
+    min-height: 600px;
+}
+
+#p3 {
+    min-height: 500px;
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: underline;
+}
